@@ -1,2 +1,2 @@
-# python-algoritms
+# python-algorithms
 resolved tastks from https://www.hackerrank.com 
