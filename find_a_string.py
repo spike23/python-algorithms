@@ -13,6 +13,10 @@ def count_substring(string, sub_string):
 
 
 if __name__ == '__main__':
+    """
+    ABCDCDC
+    CDC
+    """
     string = input().strip()
     sub_string = input().strip()
 
